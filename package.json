@@ -11,9 +11,10 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+    
 
   },
-   "homepage": "https://Jca-080896.github.io/contreras_gitpages/",
+  "homepage": "https://Jca-080896.github.io/contreras_gitpages/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
