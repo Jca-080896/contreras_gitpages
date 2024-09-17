@@ -14,7 +14,7 @@
     
 
   },
-  "homepage": "https://Jca-080896.github.io/contreras_gitpages/",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
